@@ -1,4 +1,4 @@
-![OMGee Hair Portfolio and Blog](https://github.com/bayrayeraye/omgeehair/blob/master/omgeehairportfolio.jpg)
+![OMGee Hair Portfolio and Blog](https://ibb.co/DQZ3GzJ)
 
 ## Welcome to GitHub Pages
 
